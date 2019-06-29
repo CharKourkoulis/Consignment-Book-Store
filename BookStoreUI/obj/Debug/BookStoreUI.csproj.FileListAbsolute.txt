@@ -1,0 +1,13 @@
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\bin\Debug\BookStoreUI.exe.config
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\bin\Debug\BookStoreUI.exe
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\bin\Debug\BookStoreUI.pdb
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\obj\Debug\BookStoreUI.csprojAssemblyReference.cache
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\obj\Debug\BookStoreUI.ConsignmentShop.resources
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\obj\Debug\BookStoreUI.Properties.Resources.resources
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\obj\Debug\BookStoreUI.csproj.GenerateResource.cache
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\obj\Debug\BookStoreUI.csproj.CoreCompileInputs.cache
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\obj\Debug\BookStoreUI.exe
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\obj\Debug\BookStoreUI.pdb
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\bin\Debug\ConsignmentShopLibrary.dll
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\bin\Debug\ConsignmentShopLibrary.pdb
+C:\Users\Babis\Desktop\BookStoreApp\ConsignmentBookStore\BookStoreUI\obj\Debug\BookStoreUI.csproj.CopyComplete
